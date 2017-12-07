@@ -1,6 +1,6 @@
 {
-  "name": "gatsby-starter-hello-world",
-  "description": "Gatsby hello world starter",
+  "name": "gatsby-tutorial-part-three",
+  "description": "Gatsby Official Tutorial Part 3",
   "license": "MIT",
   "scripts": {
     "develop": "gatsby develop",

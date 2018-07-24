@@ -11,6 +11,8 @@
     "gatsby": "^1.9.119",
     "gatsby-link": "^1.6.28",
     "gatsby-plugin-typography": "^1.7.10",
+    "hoek": "^5.0.3",
+    "serve": "^9.3.0",
     "typography-theme-fairy-gates": "^0.15.11"
   }
 }
